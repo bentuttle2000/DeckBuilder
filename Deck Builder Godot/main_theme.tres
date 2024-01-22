@@ -1,0 +1,7 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://c6uy58nyjgh24"]
+
+[ext_resource type="FontFile" uid="uid://bbxxhnl3h27tf" path="res://art/TeenyTinyPixls-o2zo.ttf" id="1_4uoej"]
+
+[resource]
+default_font = ExtResource("1_4uoej")
+default_font_size = 25
